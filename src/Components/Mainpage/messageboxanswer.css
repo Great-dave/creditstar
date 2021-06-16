@@ -1,0 +1,16 @@
+.msg-box {
+ margin: 40px;
+}
+
+.h5-message {
+ color: #ffffff !important;
+ background-color: #033470 !important;
+}
+
+.send-message {
+ color: #ffffff;
+ background-color: #033470;
+ border-radius: 5px;
+ padding: 10px 50px !important;
+ float: right;
+}

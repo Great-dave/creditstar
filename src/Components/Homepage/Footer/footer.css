@@ -1,0 +1,21 @@
+footer {
+ /* max-width: 1200px; */
+ margin: 0 auto;
+ background-color: #033470;
+ background-size: cover;
+ color: #fff;
+}
+
+.information,
+.policies,
+.follow_us,
+.credit {
+ color: #ACB9FF;
+}
+
+.policies,
+.information,
+.follow_us,
+.credit:hover {
+ color: #ACB9FF;
+}

@@ -1,0 +1,15 @@
+.h2-creditcard {
+ color: #033470
+}
+
+.h3-predict {
+ color: #FFFFFF;
+ background-color: #033470;
+ padding: 8px 65px;
+ border-radius: 5px;
+}
+
+.p-creditcard {
+ max-width: 450px;
+ line-height: 30px;
+}

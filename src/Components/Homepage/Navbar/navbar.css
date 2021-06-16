@@ -1,0 +1,30 @@
+.navbar-brand,
+.account:hover {
+ cursor: pointer;
+}
+
+.account {
+ color: white;
+ border: solid 2px rgb(41, 50, 170);
+ background-color: #fff;
+ /* padding: 10px; */
+ border-radius: 10px 10px;
+ font-size: 17px;
+ letter-spacing: 1px;
+ font-weight: bold;
+}
+
+.request:hover {
+ cursor: default;
+}
+
+.request {
+ color: #ffffff;
+ border: solid 2px #0a1499;
+ background-color: #0a1499;
+ /* padding: 20px 40px 20px 25px; */
+ border-radius: 10px 10px;
+ font-size: 18px;
+ letter-spacing: 1px;
+ font-weight: bold;
+}

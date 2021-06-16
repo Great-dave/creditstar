@@ -1,0 +1,55 @@
+.flagged-li {
+ font-size: 14px;
+ padding-top: 10px;
+ padding-bottom: 5px;
+ padding-right: 2px;
+ text-align: center;
+ /* padding-right: 7px;
+ margin: 10px; */
+}
+
+.side-1 {
+ background-color: #E5E5E5;
+ background-size: cover;
+}
+
+.sect {
+ background-color: #ffffff;
+ padding: 0 0 660px;
+}
+
+
+.home,
+.card-request,
+.prediction,
+.faq,
+.report {
+ color: #033470 !important;
+ border-bottom: orange 2px solid;
+}
+
+.avatar {
+ margin-right: 40px;
+ float: right;
+ font-size: 54px;
+}
+
+
+.flag-req {
+ grid-column: 2 / 2;
+ color: #033470;
+ background-color: #ffffff;
+ padding-top: 15px;
+ margin-bottom: 0px !important;
+}
+
+.flag-form {
+ grid-column: 2 / 2;
+ background-color: #ffffff;
+ color: #003470;
+}
+
+.red-flag-bg {
+ color: #ffffff !important;
+ background-color: #033470 !important;
+}

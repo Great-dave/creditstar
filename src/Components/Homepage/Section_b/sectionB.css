@@ -1,0 +1,38 @@
+.procedure {
+ /* max-width: 850px; */
+ margin: auto;
+ padding-top: 40px;
+ background-color: #FFF8F8;
+ ;
+}
+
+.procedure-content {
+ margin-bottom: 5px;
+ text-align: justify;
+}
+
+.sectionb-h1 {
+ color: #033470;
+ font-weight: 900;
+}
+
+.procedure-para {
+ position: relative;
+ left: -35px;
+ top: 42px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 28px;
+ font-weight: bolder;
+ color: rgb(238, 171, 27);
+}
+
+.get-button-sectionB {
+ background-color: #0a1499;
+ border: none;
+ border-radius: 5px 5px;
+ color: rgb(214, 211, 211);
+ padding: 10px 35px;
+ font-size: 15px;
+ margin: 0 auto;
+ /* margin-top: 50px; */
+}

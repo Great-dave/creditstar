@@ -1,0 +1,43 @@
+.h2-creditcard,
+.str-approved {
+ color: #033470
+}
+
+.approve-application {
+ background-color: #F2FBFF;
+}
+
+.h4-application {
+ margin: 40px 5px 5px;
+ padding-top: 30px;
+ padding-bottom: 15px;
+ color: #1C6AC9;
+ text-align: center;
+}
+
+.fullname-app {
+ text-align: right;
+ color: #333333;
+}
+
+.app-name {
+ color: #033470;
+ /* background-color: blueviolet; */
+}
+
+.h3-predict {
+ color: #FFFFFF;
+ background-color: #033470;
+ padding: 8px 65px;
+ border-radius: 5px;
+}
+
+
+.h5-approved {
+ background-color: #17A514;
+}
+
+.p-approved {
+ max-width: 700px;
+ text-align: center;
+}

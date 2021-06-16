@@ -1,0 +1,22 @@
+.sectionD {
+ background-color: #fff8f8;
+ display: flex;
+ margin: 0 auto;
+ padding-bottom: 80px;
+}
+
+
+.h2-section-d {
+ color: #0510a5;
+ font-size: 35px;
+ font-weight: bolder;
+}
+
+
+.learn-more {
+ background-color: #0a1499;
+ border: none;
+ border-radius: 5px 5px;
+ color: rgb(214, 211, 211);
+ font-size: 15px;
+}

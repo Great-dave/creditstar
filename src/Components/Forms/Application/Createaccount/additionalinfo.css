@@ -1,0 +1,21 @@
+.card-customer {
+ background-color: #F2FBFF !important;
+}
+
+.h5-customer {
+ color: #1C6AC9;
+}
+
+.titled-star:after,
+.home-address-star::after,
+.phone-num-star::after,
+.email-star::after,
+.marriage-status-star::after,
+.dob-star::after,
+.FullName-star:after,
+.gender-star::after,
+.edu-star::after {
+ content: "*";
+ color: rgb(243, 24, 24);
+ padding: 10px;
+}

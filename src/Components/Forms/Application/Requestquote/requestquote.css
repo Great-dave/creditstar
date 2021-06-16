@@ -1,0 +1,35 @@
+.h5-request {
+ background-color: #033470;
+}
+
+.request-container {
+ background: #E5E5E5;
+ border: 'solid 3px #003470';
+}
+
+
+.h3-send {
+ color: #FFFFFF;
+ background-color: #033470;
+ /* opacity: 0.6; */
+ padding: 3px 45px;
+ border-radius: 5px;
+}
+
+.h3-cancel {
+ border: #033470 3px solid;
+ color: #033470;
+ background-color: #FFFFFF;
+ padding: 3px 45px;
+ border-radius: 5px;
+}
+
+.request-message {
+ margin: 5px 0;
+ height: 40px;
+ border-radius: 5px 5px;
+}
+
+.input-request {
+ border-color: rgb(139, 46, 119) solid 4px !important;
+}

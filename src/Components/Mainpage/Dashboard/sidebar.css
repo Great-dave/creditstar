@@ -1,0 +1,96 @@
+.side-1 {
+  background-color: #E5E5E5;
+  background-size: cover;
+}
+
+.sect {
+  background-color: #ffffff;
+  padding: 0 0 660px;
+}
+
+.home,
+.card-request,
+.prediction,
+.faq,
+.report {
+  font-size: 19px !important;
+  color: #033470 !important;
+  border-bottom: orange 2px solid;
+}
+
+.home {
+  color: #ffffff !important;
+  background-color: #033470
+}
+
+.avatar {
+  margin-right: 40px;
+  float: right;
+  font-size: 54px;
+}
+
+.dashboard-container {
+  max-height: 100%;
+  max-width: 100%;
+  display: grid;
+  grid-gap: 6px;
+  grid-template-columns: 1fr, 1fr;
+  grid-template-rows: 150px 500px;
+  grid-template-areas:
+    "c c c c o o o o o o o o"
+    "c c c c w w w a a a a a"
+    "c c c c p p p e e e e e"
+  ;
+}
+
+.creditstar {
+  grid-area: c;
+  padding-bottom: 40px;
+}
+
+.overview {
+  grid-area: o;
+  color: #033470;
+  background-color: #ffffff;
+  padding-top: 15px;
+  margin-bottom: 0px !important;
+}
+
+
+.welcome {
+  grid-area: w;
+  background-color: #ffffff;
+  color: #003470;
+}
+
+.pie {
+  grid-area: p;
+  background-color: #ffffff;
+  color: #003470;
+
+}
+
+.approved {
+  grid-area: a;
+  background-color: #ffffff !important;
+  color: #003470;
+}
+
+.red-flag {
+  grid-area: e;
+  background-color: #ffffff !important;
+  color: #003470;
+}
+
+
+.new-prediction {
+  /* border: solid 2px orchid; */
+  background-color: #003470;
+  border-radius: 5px;
+}
+
+.view-more {
+  float: right;
+  border-radius: 5px;
+  border: solid 2px #003470;
+}
